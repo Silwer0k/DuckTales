@@ -1,0 +1,13 @@
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\Excel.dll
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\Svertka.dll
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\bin\Debug\Svertka.pdb
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Новая папка\10.10.16\лабы\3 курс\2 семестр\ТПР\Индивидуалка Юрец\Svertka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
